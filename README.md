@@ -13,7 +13,7 @@ The program creates multiple threads that attempt to access and modify a shared 
 - Shared resource (counter) access control
 - Real-time thread state visualization
 - Multiple concurrent threads
-
+ 
 ## Requirements
 
 - C++17 or later
